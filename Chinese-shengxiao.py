@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time  : 2019/03/11 10:19
-# @Author  : YW
 # @Software: PyCharm
 
 #记录生肖，根据年份判断生肖。
